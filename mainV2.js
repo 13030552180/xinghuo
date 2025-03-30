@@ -6,9 +6,9 @@ let sendMsgBtn = document.querySelector("#btn");
 let result = document.querySelector("#result");
 
 let requestObj = {
-    APPID: '',
-    APISecret: '',
-    APIKey: '',
+    APPID: 'd16d8679',
+    APISecret: 'NmY0MWQ3NjVlODAzZmQ0NjkxNjA4Yjlm',
+    APIKey: '8df1371fec8578eca8a2df931131de23',
     Uid:"特阿尔塔耳塔",
     sparkResult: ''
 }
